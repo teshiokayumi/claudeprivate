@@ -56,6 +56,7 @@ async function resolveSong(entry) {
     const res = await fetch(entry.url, {
       headers: HEADERS,
       redirect: "follow",
+      signal: AbortSignal.timeout(20000),
     });
     if (!res.ok) {
       throw new Error(`HTTP ${res.status} for ${entry.url}`);
