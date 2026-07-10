@@ -1,0 +1,16 @@
+{
+  "comment": "ここに曲を追加してください。url に Suno の共有リンク（https://suno.com/s/... または https://suno.com/song/...）を書いて push すると、GitHub Actions が自動でタイトル等を取得して playlist.json を更新します。title を書くと手動で上書きできます。",
+  "songs": [
+    { "url": "https://suno.com/s/jEVBFssR87tqdhQP" },
+    { "url": "https://suno.com/s/opXRCBlfrk9gqucj" },
+    { "url": "https://suno.com/s/x8SCHcyoSKCQrUvC" },
+    { "url": "https://suno.com/s/W0thqsWyeQqAEu70" },
+    { "url": "https://suno.com/s/5wbCHhGDweqxnPu8" },
+    { "url": "https://suno.com/s/vp0zvvNpgpK5tNrZ" },
+    { "url": "https://suno.com/s/N6lGLERoRas4lCLP" },
+    { "url": "https://suno.com/s/dF5qn684708lFrmD" },
+    { "url": "https://suno.com/s/pRuUx7YngjTExhNA" },
+    { "url": "https://suno.com/s/GSY0KNxjFgx8m5CN" },
+    { "url": "https://suno.com/s/nzJasO7MRmccqe5b" }
+  ]
+}
