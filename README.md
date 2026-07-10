@@ -13,9 +13,9 @@ GitHub Pages でそのまま公開でき、ポートフォリオからリンク�
 
 ## 公開方法（GitHub Pages）
 
-1. このブランチを `main` にマージ（または `main` に直接この内容を置く）
-2. リポジトリの **Settings → Pages** を開く
-3. **Source: Deploy from a branch**、**Branch: `main` / `(root)`** を選んで Save
+1. リポジトリの **Settings → Pages** を開く
+2. **Source: Deploy from a branch** を選択
+3. **Branch** にこのファイルがあるブランチ（例: `claude/suno-music-player-958zyp`、`main` にマージした場合は `main`）、フォルダは **`/ (root)`** を選んで Save
 4. 数分後に `https://<ユーザー名>.github.io/<リポジトリ名>/` で公開されます
 
 > **注意:** GitHub Pages はプライベートリポジトリでは無料プランで使えません。
