@@ -5,6 +5,7 @@ on:
     paths:
       - songs.json
       - scripts/resolve-playlist.mjs
+      - .github/workflows/update-playlist.yml
   workflow_dispatch:
 
 permissions:
@@ -30,7 +31,7 @@ jobs:
 
       - name: Commit playlist.json
         run: |
-          if git diff --quiet -- playlist.json; then
+          if [ -z "$(git status --porcelain -- playlist.json)" ]; then
             echo "playlist.json is up to date"
             exit 0
           fi
