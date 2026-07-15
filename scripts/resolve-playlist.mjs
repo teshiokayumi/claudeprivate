@@ -18,6 +18,15 @@ const HEADERS = {
 const UUID_RE =
   /[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}/i;
 
+// 貼り付けミス（URLの二重貼りや Markdown リンク形式など）から
+// Suno のリンク部分だけを救出する。最後に現れたリンクを採用する。
+function normalizeUrl(raw) {
+  const matches = String(raw).match(
+    /https:\/\/suno\.com\/(?:s|song)\/[A-Za-z0-9_-]+/g
+  );
+  return matches ? matches[matches.length - 1] : String(raw).trim();
+}
+
 function extractMeta(html, prop) {
   const patterns = [
     new RegExp(
@@ -112,6 +121,7 @@ async function main() {
 
   for (const entry of songs) {
     if (!entry.url) continue;
+    entry.url = normalizeUrl(entry.url);
 
     const cached = cache.get(entry.url);
     if (cached && !entry.title && !entry.id) {
