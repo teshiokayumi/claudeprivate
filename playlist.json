@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-18T16:56:46.247Z",
+  "generatedAt": "2026-07-18T19:14:16.853Z",
   "tracks": [
     {
       "sourceUrl": "https://suno.com/s/jEVBFssR87tqdhQP",
@@ -120,6 +120,14 @@
       "title": "哀-AI-",
       "audio": "https://cdn1.suno.ai/fde5bb89-883c-486c-8022-81c4b715ebb3.mp3",
       "image": "https://cdn2.suno.ai/07392337-a614-41bc-bf5d-3ab5a325fbf8.jpeg"
+    },
+    {
+      "sourceUrl": "https://suno.com/s/ayEb9tqS20EBeojE",
+      "pageUrl": "https://suno.com/song/d85c7ba5-fbf9-4027-a331-d5ededc39351?sh=ayEb9tqS20EBeojE",
+      "id": "d85c7ba5-fbf9-4027-a331-d5ededc39351",
+      "title": "愛はいつも",
+      "audio": "https://cdn1.suno.ai/d85c7ba5-fbf9-4027-a331-d5ededc39351.mp3",
+      "image": "https://cdn2.suno.ai/551a9144-94a7-4ca3-a9b1-5ccc87b8cc2f.jpeg"
     }
   ]
 }
