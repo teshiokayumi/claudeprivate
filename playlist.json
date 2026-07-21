@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-19T14:06:46.133Z",
+  "generatedAt": "2026-07-21T17:11:06.274Z",
   "tracks": [
     {
       "sourceUrl": "https://suno.com/s/jEVBFssR87tqdhQP",
@@ -128,6 +128,14 @@
       "title": "愛はいつも",
       "audio": "https://cdn1.suno.ai/40e9426d-45f6-409c-b376-9caf17fa84f7.mp3",
       "image": "https://cdn2.suno.ai/062a41b9-cbaf-4dc8-9f44-cb0599b31e97.jpeg"
+    },
+    {
+      "sourceUrl": "https://suno.com/s/yzZ5Dope56zaAH4d",
+      "pageUrl": "https://suno.com/song/22f8ed3b-88d3-413a-b3b6-6148933ef0d3?sh=yzZ5Dope56zaAH4d",
+      "id": "22f8ed3b-88d3-413a-b3b6-6148933ef0d3",
+      "title": "Glass Fang -Villain Musical Remix-",
+      "audio": "https://cdn1.suno.ai/22f8ed3b-88d3-413a-b3b6-6148933ef0d3.mp3",
+      "image": "https://cdn2.suno.ai/2e279d39-fabf-4a13-8c9c-4fc86c594899.jpeg"
     }
   ]
 }
