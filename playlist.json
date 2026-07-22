@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-07-22T03:04:50.579Z",
+  "generatedAt": "2026-07-22T04:12:18.167Z",
   "tracks": [
     {
-      "sourceUrl": "https://suno.com/s/jEVBFssR87tqdhQP",
-      "pageUrl": "https://suno.com/song/2bb9d200-7081-4f94-af1e-1c0d44ad97e9?sh=jEVBFssR87tqdhQP",
-      "id": "2bb9d200-7081-4f94-af1e-1c0d44ad97e9",
-      "title": "Magic of First Love",
-      "audio": "https://cdn1.suno.ai/2bb9d200-7081-4f94-af1e-1c0d44ad97e9.mp3",
-      "image": "https://cdn2.suno.ai/e0d282e7-77e5-4cd4-8842-a0b390e86fff.jpeg"
+      "sourceUrl": "https://suno.com/s/dB337UQedLacmukH",
+      "pageUrl": "https://suno.com/song/91b81e44-4d5d-4595-8a58-0852e2dd880f?sh=dB337UQedLacmukH",
+      "id": "91b81e44-4d5d-4595-8a58-0852e2dd880f",
+      "title": "愛はいつも",
+      "audio": "https://cdn1.suno.ai/91b81e44-4d5d-4595-8a58-0852e2dd880f.mp3",
+      "image": "https://cdn2.suno.ai/image_large_91b81e44-4d5d-4595-8a58-0852e2dd880f.jpeg"
     },
     {
       "sourceUrl": "https://suno.com/s/x8SCHcyoSKCQrUvC",
@@ -130,12 +130,12 @@
       "image": "https://cdn2.suno.ai/062a41b9-cbaf-4dc8-9f44-cb0599b31e97.jpeg"
     },
     {
-      "sourceUrl": "https://suno.com/s/dB337UQedLacmukH",
-      "pageUrl": "https://suno.com/song/91b81e44-4d5d-4595-8a58-0852e2dd880f?sh=dB337UQedLacmukH",
-      "id": "91b81e44-4d5d-4595-8a58-0852e2dd880f",
-      "title": "愛はいつも",
-      "audio": "https://cdn1.suno.ai/91b81e44-4d5d-4595-8a58-0852e2dd880f.mp3",
-      "image": "https://cdn2.suno.ai/image_large_91b81e44-4d5d-4595-8a58-0852e2dd880f.jpeg"
+      "sourceUrl": "https://suno.com/s/jEVBFssR87tqdhQP",
+      "pageUrl": "https://suno.com/song/2bb9d200-7081-4f94-af1e-1c0d44ad97e9?sh=jEVBFssR87tqdhQP",
+      "id": "2bb9d200-7081-4f94-af1e-1c0d44ad97e9",
+      "title": "Magic of First Love",
+      "audio": "https://cdn1.suno.ai/2bb9d200-7081-4f94-af1e-1c0d44ad97e9.mp3",
+      "image": "https://cdn2.suno.ai/e0d282e7-77e5-4cd4-8842-a0b390e86fff.jpeg"
     }
   ]
 }
