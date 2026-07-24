@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-24T06:15:08.000Z",
+  "generatedAt": "2026-07-24T17:23:24.386Z",
   "tracks": [
     {
       "sourceUrl": "https://suno.com/s/dB337UQedLacmukH",
@@ -136,6 +136,14 @@
       "title": "Magic of First Love",
       "audio": "https://cdn1.suno.ai/2bb9d200-7081-4f94-af1e-1c0d44ad97e9.mp3",
       "image": "https://cdn2.suno.ai/e0d282e7-77e5-4cd4-8842-a0b390e86fff.jpeg"
+    },
+    {
+      "sourceUrl": "https://suno.com/s/9l0UparpBVx9DMIW",
+      "pageUrl": "https://suno.com/song/cb395083-3cb9-48bc-bf2f-a386a6207436?sh=9l0UparpBVx9DMIW",
+      "id": "cb395083-3cb9-48bc-bf2f-a386a6207436",
+      "title": "2番目のシンデレラ",
+      "audio": "https://cdn1.suno.ai/cb395083-3cb9-48bc-bf2f-a386a6207436.mp3",
+      "image": "https://cdn2.suno.ai/image_large_cb395083-3cb9-48bc-bf2f-a386a6207436.jpeg"
     }
   ]
 }
