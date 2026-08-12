@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-12T05:45:50.714Z",
+  "generatedAt": "2026-08-12T08:52:30.735Z",
   "tracks": [
     {
       "sourceUrl": "https://suno.com/s/dB337UQedLacmukH",
@@ -16,6 +16,14 @@
       "title": "poison",
       "audio": "https://cdn1.suno.ai/602769e1-35e5-457c-9802-f2b92efe34b7.mp3",
       "image": "https://cdn2.suno.ai/b988e22e-651b-4d20-9e6f-2e148a0407c8.jpeg"
+    },
+    {
+      "sourceUrl": "https://suno.com/s/qTDT43Q4g7HJ3t3A",
+      "pageUrl": "https://suno.com/song/1a68d61b-fad8-4722-86fe-b9946cf82cef?sh=qTDT43Q4g7HJ3t3A",
+      "id": "1a68d61b-fad8-4722-86fe-b9946cf82cef",
+      "title": "ERROR：君を削除できない",
+      "audio": "https://cdn1.suno.ai/1a68d61b-fad8-4722-86fe-b9946cf82cef.mp3",
+      "image": "https://cdn2.suno.ai/32be235b-4761-4475-828b-d1a52041c1df.jpeg"
     },
     {
       "sourceUrl": "https://suno.com/s/x8SCHcyoSKCQrUvC",
