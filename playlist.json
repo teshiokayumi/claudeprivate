@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T00:13:43.391Z",
+  "generatedAt": "2026-08-22T08:57:25.595Z",
   "tracks": [
     {
       "sourceUrl": "https://suno.com/s/dB337UQedLacmukH",
@@ -16,6 +16,38 @@
       "title": "poison",
       "audio": "https://cdn1.suno.ai/602769e1-35e5-457c-9802-f2b92efe34b7.mp3",
       "image": "https://cdn2.suno.ai/b988e22e-651b-4d20-9e6f-2e148a0407c8.jpeg"
+    },
+    {
+      "sourceUrl": "https://suno.com/s/UEuvrelamSUHMd7l",
+      "pageUrl": "https://suno.com/song/9e120d43-0157-4e19-81b7-822e49a87ef3?sh=UEuvrelamSUHMd7l",
+      "id": "9e120d43-0157-4e19-81b7-822e49a87ef3",
+      "title": "Dreamer[Suger Tail Edition]",
+      "audio": "https://cdn1.suno.ai/9e120d43-0157-4e19-81b7-822e49a87ef3.mp3",
+      "image": "https://cdn2.suno.ai/66fc3f87-b27e-485d-8a64-f8e45dc40e3b.jpeg"
+    },
+    {
+      "sourceUrl": "https://suno.com/s/DG6QzULmzyO5dvF0",
+      "pageUrl": "https://suno.com/song/c38eca8f-6adb-482e-bcfd-7f1f2a131ec7?sh=DG6QzULmzyO5dvF0",
+      "id": "c38eca8f-6adb-482e-bcfd-7f1f2a131ec7",
+      "title": "Sugar Bite",
+      "audio": "https://cdn1.suno.ai/c38eca8f-6adb-482e-bcfd-7f1f2a131ec7.mp3",
+      "image": "https://cdn2.suno.ai/c38eca8f-6adb-482e-bcfd-7f1f2a131ec7_5e2fd236.jpeg"
+    },
+    {
+      "sourceUrl": "https://suno.com/s/kvT3IFjH2thqOfdz",
+      "pageUrl": "https://suno.com/song/a8297af2-2959-4fe0-91d3-903063bb9bc0?sh=kvT3IFjH2thqOfdz",
+      "id": "a8297af2-2959-4fe0-91d3-903063bb9bc0",
+      "title": "雨の後悔",
+      "audio": "https://cdn1.suno.ai/a8297af2-2959-4fe0-91d3-903063bb9bc0.mp3",
+      "image": "https://cdn2.suno.ai/714470ae-4507-4771-a523-752e3dbeba25.jpeg"
+    },
+    {
+      "sourceUrl": "https://suno.com/s/WtQHcEPKV16U0fWB",
+      "pageUrl": "https://suno.com/song/d80b8656-43dc-4ed3-b255-c76c90dde865?sh=WtQHcEPKV16U0fWB",
+      "id": "d80b8656-43dc-4ed3-b255-c76c90dde865",
+      "title": "月蝕──エクリプス",
+      "audio": "https://cdn1.suno.ai/d80b8656-43dc-4ed3-b255-c76c90dde865.mp3",
+      "image": "https://cdn2.suno.ai/7dbf3dfc-969d-4c5d-a6e1-e23919fa1c9c.jpeg"
     },
     {
       "sourceUrl": "https://suno.com/s/qTDT43Q4g7HJ3t3A",
