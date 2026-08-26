@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T10:50:22.248Z",
+  "generatedAt": "2026-08-26T09:37:25.236Z",
   "tracks": [
     {
       "sourceUrl": "https://suno.com/s/dB337UQedLacmukH",
@@ -16,6 +16,22 @@
       "title": "poison",
       "audio": "https://cdn1.suno.ai/602769e1-35e5-457c-9802-f2b92efe34b7.mp3",
       "image": "https://cdn2.suno.ai/b988e22e-651b-4d20-9e6f-2e148a0407c8.jpeg"
+    },
+    {
+      "sourceUrl": "https://suno.com/s/jSpHXSjAp5SoxbeS",
+      "pageUrl": "https://suno.com/song/501b5073-7cbd-4a7c-8dcd-50809c0b1d6d?sh=jSpHXSjAp5SoxbeS",
+      "id": "501b5073-7cbd-4a7c-8dcd-50809c0b1d6d",
+      "title": "迎えに来て僕が壊れてしまう前に",
+      "audio": "https://cdn1.suno.ai/501b5073-7cbd-4a7c-8dcd-50809c0b1d6d.mp3",
+      "image": "https://cdn2.suno.ai/b002d54c-7dab-4bb6-b56b-f4f3dd3a63c8.jpeg"
+    },
+    {
+      "sourceUrl": "https://suno.com/s/SWvga1hmHC5TLQsU",
+      "pageUrl": "https://suno.com/song/0899f73f-0f28-4334-bc9b-f9bfe257dc0e?sh=SWvga1hmHC5TLQsU",
+      "id": "0899f73f-0f28-4334-bc9b-f9bfe257dc0e",
+      "title": "この夜に君を檻に沈めて",
+      "audio": "https://cdn1.suno.ai/0899f73f-0f28-4334-bc9b-f9bfe257dc0e.mp3",
+      "image": "https://cdn2.suno.ai/3aac6315-4d73-40de-b385-5b907a66a2d9.jpeg"
     },
     {
       "sourceUrl": "https://suno.com/s/UEuvrelamSUHMd7l",
@@ -192,6 +208,14 @@
       "title": "Magic of First Love",
       "audio": "https://cdn1.suno.ai/2bb9d200-7081-4f94-af1e-1c0d44ad97e9.mp3",
       "image": "https://cdn2.suno.ai/e0d282e7-77e5-4cd4-8842-a0b390e86fff.jpeg"
+    },
+    {
+      "sourceUrl": "https://suno.com/s/YEVpFMbmbDK1L7K1",
+      "pageUrl": "https://suno.com/song/475c1f91-22f1-456c-807c-490963a3b79e?sh=YEVpFMbmbDK1L7K1",
+      "id": "475c1f91-22f1-456c-807c-490963a3b79e",
+      "title": "午前2時の共犯者",
+      "audio": "https://cdn1.suno.ai/475c1f91-22f1-456c-807c-490963a3b79e.mp3",
+      "image": "https://cdn2.suno.ai/475c1f91-22f1-456c-807c-490963a3b79e_2e99d1c2.jpeg"
     },
     {
       "sourceUrl": "https://suno.com/s/SWvga1hmHC5TLQsU",
